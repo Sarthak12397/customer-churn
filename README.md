@@ -10,3 +10,47 @@ Customer churn is one of the most critical business problems facing telecom comp
 
 ## Key Findings
 
+- Month-to-month customers churn at 42.71%
+- One year contract customers churn at 11.28%
+- Two year contract customers churn at only 2.85%
+- Contract type is the single biggest predictor of churn
+
+### Internet Service
+- Fiber optic customers churn at 41.89%
+- DSL customers churn at 19.00%
+- Customers with no internet churn at only 7.43%
+- Fiber optic pricing is driving dissatisfaction.
+
+
+### Overall Numbers
+- 1,869 customers churned out of 7,043 total
+- Overall churn rate sits at 26.5%
+- Every 1% reduction in churn = significant revenue saved
+
+
+## Recommendations
+1. Launch onboarding retention program targeting 
+   customers in their first 5 months
+2. Offer discounts to move month-to-month customers 
+   to annual contracts
+3. Investigate fiber optic service quality and pricing
+4. Create loyalty rewards for customers reaching 
+   12 month milestone
+
+
+## Tools
+- Python
+- Pandas
+- MatplotLib
+- Seaborn
+- Tableau
+- Jupyter Notebook
+
+
+
+## Dataset
+Download - https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+
+
+
