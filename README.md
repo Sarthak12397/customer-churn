@@ -4,7 +4,7 @@ Customer churn is one of the most critical business problems facing telecom comp
 
 
 ## Dashboard
-<img width="637" height="800" alt="image" src="https://github.com/user-attachments/assets/2c81a112-0a10-48fc-8565-35e063d2653b" />
+<img width="646" height="805" alt="image" src="https://github.com/user-attachments/assets/fcfbcda6-b1c7-4c9a-b65d-fb2b415207ee" />
 
 
 
